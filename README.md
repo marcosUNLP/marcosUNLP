@@ -66,12 +66,12 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 ---
 
 ## 🤝 Sobre mí
-- **Ubicación:** La Plata, Argentina 🇦🇷
+- **Ubicación:** Argentina 🇦🇷
 - **Rol:** Doctorando @ UNLP | Profesor Técnico | Investigador en Quantum Software
 - **Intereses:** Algoritmos NISQ, enseñanza de física cuántica, open source académico, GNU/Linux, Cryptografía
 
 *Última actualización: 15 de Noviembre de 2025*
 
 ---
-**Hecho con ❤️, qubits y código en La Plata**  
+ 
 Miembro de [LIFIA](https://lifia.info.unlp.edu.ar/) • [QuantumLogic](https://quantumlogic.com.ar/) • [UNLP](https://www.info.unlp.edu.ar/)
