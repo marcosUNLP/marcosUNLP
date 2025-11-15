@@ -15,11 +15,6 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 📊 Stats de GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosUNLP&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosUNLP&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠️ Habilidades y Tecnologías
 - **Lenguajes:** Python, Qiskit, C y Verilog
 - **Quantum Tools:** Qiskit, Cirq, Pennylane
