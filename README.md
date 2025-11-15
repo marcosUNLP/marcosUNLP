@@ -32,18 +32,18 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 📚 Publicaciones Destacadas (Google Scholar)
-Citas totales: **~4** | h-index: **1** | i10-index: **0**
+## 📚 Publicaciones (Google Scholar)
 
-| Título | Autores | Año | Citas | Enlace |
-|--------|---------|-----|-------|--------|
-| **Minisatélite cansat aplicado al aprendizaje basado en problemas en diversos contextos educativos** | M Arruabarrena, L Báez, A Fernández, M Lammers, E Marengo, R Medel, ... | 2020 | 2 | [📄 ResearchGate](https://www.researchgate.net/profile/Marcos-Lammers) |
-| **Quantum Resource Management in the NISQ Era: Implications and Perspectives from Software Engineering** | MG Lammers, FH Holik, A Fernández | 2025 | 1 | [📄 arXiv](https://arxiv.org/abs/2508.05697) |
-| **Quantum Resource Management in the NISQ Era: Challenges, Vision, and a Runtime Framework** | MG Lammers, FH Holik, A Fernández | 2025 | 0 | [📄 arXiv](https://arxiv.org/abs/2508.19276) |
-| **Ciencia en la sombra: acceso, gobernanza y producción científica en la periferia** | L Bazzana Tanevitch, M Lammers, JM Suárez | 2025 | 0 | [📄 Ver](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=E5UdfJ8AAAAJ&citation_for_view=E5UdfJ8AAAAJ:klpM3kog_LQC) |
-| **Medida, visibilidad e impacto de la producción científica** | MR De Giusti, MG Lammers, JM Suárez, MB Masset, ... | 2025 | 0 | [📄 SEDICI](https://sedici.unlp.edu.ar/handle/10915/178883) |
-| **Quantum Computing and Its Resources in Software Engineering** | MG Lammers | 2024 | 0 | [📄 CIC](https://digital.cic.gba.gob.ar/items/71eac77f-702a-4f28-8574-47a210b5c4ab) |
-| **¿Cómo proteger la privacidad en la web?** | MG Lammers | 2023 | 0 | [📄 Ver](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=E5UdfJ8AAAAJ&citation_for_view=E5UdfJ8AAAAJ:UeHWp8X0CEIC) |
+
+| Título | Autores | Año  |   Enlace   |
+|--------|---------|------|--------------------------------|
+| **Minisatélite cansat aplicado al aprendizaje basado en problemas en diversos contextos educativos** | M Arruabarrena, L Báez, A Fernández, M Lammers, E Marengo, R Medel, ... | 2020 | [📄 ResearchGate](https://www.researchgate.net/profile/Marcos-Lammers) |
+| **Quantum Resource Management in the NISQ Era: Implications and Perspectives from Software Engineering** | MG Lammers, FH Holik, A Fernández | 2025 | [📄 arXiv](https://arxiv.org/abs/2508.05697) |
+| **Quantum Resource Management in the NISQ Era: Challenges, Vision, and a Runtime Framework** | MG Lammers, FH Holik, A Fernández | 2025 | [📄 arXiv](https://arxiv.org/abs/2508.19276) |
+| **Ciencia en la sombra: acceso, gobernanza y producción científica en la periferia** | L Bazzana Tanevitch, M Lammers, JM Suárez | 2025 | [📄 Ver](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=E5UdfJ8AAAAJ&citation_for_view=E5UdfJ8AAAAJ:klpM3kog_LQC) |
+| **Medida, visibilidad e impacto de la producción científica** | MR De Giusti, MG Lammers, JM Suárez, MB Masset, ... | 2025 | [📄 SEDICI](https://sedici.unlp.edu.ar/handle/10915/178883) |
+| **Quantum Computing and Its Resources in Software Engineering** | MG Lammers | 2024 | [📄 CIC](https://digital.cic.gba.gob.ar/items/71eac77f-702a-4f28-8574-47a210b5c4ab) |
+| **¿Cómo proteger la privacidad en la web?** | MG Lammers | 2023 | [📄 Ver](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=E5UdfJ8AAAAJ&citation_for_view=E5UdfJ8AAAAJ:UeHWp8X0CEIC) |
 
 > *Actualizado desde [Google Scholar](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao). 
 
@@ -66,7 +66,7 @@ Citas totales: **~4** | h-index: **1** | i10-index: **0**
 
 ## 📫 Conectá conmigo
 - 📧 **Email**: [marcos.lammers@lifia.info.unlp.edu.ar](mailto:marcos.lammers@lifia.info.unlp.edu.ar)
-- 🔬 **Google Scholar**: [Citas y papers](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)
+- 🔬 **Google Scholar**: [Papers](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)
 - 🔗 **ORCID**: [0009-0007-3954-2252](https://orcid.org/0009-0007-3954-2252)
 - 🌐 **LIFIA-UNLP**: [Perfil oficial](https://lifia.info.unlp.edu.ar/lic-marcos-guillermo-lammers/)
 - 🌐 **Personal**: [marcosl.mypi.co](https://marcosl.mypi.co/es/index.html)
