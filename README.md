@@ -54,11 +54,6 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 📈 Contribuciones
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcosUNLP&theme=radical&hide_border=true)
-
----
-
 ## 📫 Conectá conmigo
 - 📧 **Email**: [marcos.lammers@lifia.info.unlp.edu.ar](mailto:marcos.lammers@lifia.info.unlp.edu.ar)
 - 🔬 **Google Scholar**: [Papers](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)
