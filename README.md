@@ -68,7 +68,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 ## 🤝 Sobre mí
 - **Ubicación:** Argentina 🇦🇷
 - **Rol:** Doctorando @ UNLP | Profesor Técnico | Investigador en Quantum Software
-- **Intereses:** Algoritmos NISQ, enseñanza de física cuántica, open source académico, GNU/Linux, Cryptografía
+- **Intereses:** Docencia, algoritmos NISQ, física, open source académico, GNU/Linux, Cryptografía
 
 *Última actualización: 15 de Noviembre de 2025*
 
