@@ -9,7 +9,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 ---
 
 🌐 **Perfil LIFIA-UNLP**: [lifia.info.unlp.edu.ar/lic-marcos-guillermo-lammers](https://lifia.info.unlp.edu.ar/lic-marcos-guillermo-lammers/)  
-📄 **Página personal**: [marcosl.mypi.co](https://marcosl.mypi.co/es/index.html)  
+📄 **Página personal**: [marqc.my.to](https://marqc.my.to/es/index.html)  
 🔬 **Google Scholar**: [Ver mis publicaciones](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)  
 🔗 **ORCID**: [0009-0007-3954-2252](https://orcid.org/0009-0007-3954-2252)
 
