@@ -1,10 +1,6 @@
-# ¡Hola! Soy Marcos Guillermo Lammers 👨‍💻
-
-¡Bienvenido/a a mi perfil de GitHub! Soy **Licenciado en Informática**, **profesor de escuelas técnicas** en áreas como eléctrica, electromecánica, sistemas de control, física y termodinámica, y actualmente **doctorando en Ciencias Informáticas** en la Facultad de Informática (UNLP). Mi investigación se centra en **recursos de computación cuántica para la ingeniería de software**, explorando probabilidades cuánticas, superposición, entrelazamiento y algoritmos para arquitecturas NISQ.
+Soy Marcos Lammers, **Licenciado en Informática**, **profesor de escuelas técnicas** en áreas como eléctrica, electromecánica, sistemas de control, física y termodinámica, y actualmente **doctorando en Ciencias Informáticas** en la Facultad de Informática (UNLP). Mi investigación se centra en **recursos de computación cuántica para la ingeniería de software**, explorando probabilidades cuánticas, superposición, entrelazamiento y algoritmos para arquitecturas NISQ.
 
 Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team) y estoy supervisado por el **Dr. Alejandro Fernández (LIFIA)** y el **Dr. Federico Holik (CONICET/IFLP)**.
-
-¡Abierto a colaboraciones en open source, quantum computing, educación STEM y publicaciones!
 
 ---
 
@@ -15,7 +11,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 🛠️ Habilidades y Tecnologías
+## Habilidades y Tecnologías
 - **Lenguajes:** Python, Qiskit, C y Verilog
 - **Quantum Tools:** Qiskit, Cirq, Pennylane
 - **Otros:** Git, Docker, LaTeX, Jupyter
@@ -27,7 +23,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 📚 Publicaciones (Google Scholar)
+## Publicaciones (Google Scholar)
 
 
 | Título | Autores | Año  |   Enlace   |
@@ -44,7 +40,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 🔥 Proyectos e Investigación
+## Proyectos e Investigación
 - **Tesis Doctoral**: *Aplicación de recursos cuánticos en ingeniería de software*  
   [![Memoria Técnica](https://img.shields.io/badge/Memoria%20Técnica-blue?style=flat&logo=pdf)](https://memorias.lifia.ar/researcher-profile?vid=OID(66AEBCA5ED494FCA82DAC34D))  
   *En progreso @ LIFIA/UNLP*
@@ -54,18 +50,16 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 
 ---
 
-## 📫 Conectá conmigo
+## Conectá conmigo
 - 📧 **Email**: [marcos.lammers@lifia.info.unlp.edu.ar](mailto:marcos.lammers@lifia.info.unlp.edu.ar)
 - 🔬 **Google Scholar**: [Papers](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)
 - 🔗 **ORCID**: [0009-0007-3954-2252](https://orcid.org/0009-0007-3954-2252)
 - 🌐 **LIFIA-UNLP**: [Perfil oficial](https://lifia.info.unlp.edu.ar/lic-marcos-guillermo-lammers/)
 - 🌐 **Personal**: [marcosl.mypi.co](https://marcosl.mypi.co/es/index.html)
 
-> ¡Charlemos sobre quantum, open science o educación!
-
 ---
 
-## 🤝 Sobre mí
+## Sobre mí
 - **Ubicación:** Argentina 🇦🇷
 - **Rol:** Doctorando @ UNLP | Profesor Técnico | Investigador en Quantum Software
 - **Intereses:** Docencia, algoritmos NISQ, física, open source académico, GNU/Linux, Cryptografía
