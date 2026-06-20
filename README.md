@@ -55,7 +55,7 @@ Soy miembro del grupo [**quantumlogic.com.ar**](https://quantumlogic.com.ar/team
 - 🔬 **Google Scholar**: [Papers](https://scholar.google.com/citations?user=E5UdfJ8AAAAJ&hl=es&oi=ao)
 - 🔗 **ORCID**: [0009-0007-3954-2252](https://orcid.org/0009-0007-3954-2252)
 - 🌐 **LIFIA-UNLP**: [Perfil oficial](https://lifia.info.unlp.edu.ar/lic-marcos-guillermo-lammers/)
-- 🌐 **Personal**: [marcosl.mypi.co](https://marqc.xubi.org/es/index.html)
+- 🌐 **Personal**: [marqc.xubi.org](https://marqc.xubi.org/es/index.html)
 
 ---
 
